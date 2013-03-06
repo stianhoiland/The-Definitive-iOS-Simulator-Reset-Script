@@ -13,6 +13,8 @@ Download this script! Run it! Awesomeness guaranteed!
 
 ![Screenshot](https://raw.github.com/stianhoiland/The-Definite-iOS-Simulator-Reset-Script/master/The%20Definite%20iOS%20Simulator%20Reset%20Script.png "Screenshot")
 
+**NOTE:** *If you haven't already, enable "Universal Access", aka. "Enable access for assistive devices" in System Preferences > Accessibility.*
+
 
 Credits
 -------
