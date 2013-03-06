@@ -11,7 +11,7 @@ Gotta reset your iOS Simulator? Gotta reset more than just one? What about *all*
 
 Download this script! Run it! Awesomeness guaranteed!
 
-![Screenshot](https://github.com/stianhoiland/The-Definite-iOS-Simulator-Reset-Script/blob/master/The%20Definite%20iOS%20Simulator%20Reset%20Script.png "Screenshot")
+![Screenshot](https://raw.github.com/stianhoiland/The-Definite-iOS-Simulator-Reset-Script/master/The%20Definite%20iOS%20Simulator%20Reset%20Script.png "Screenshot")
 
 
 Credits
