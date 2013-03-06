@@ -6,11 +6,12 @@ Created after being inspired by [this stackoverflow post](http://stackoverflow.c
 
 What's this?
 ------------
-Gotta reset you're iOS Simulator? Gotta reset more than just one? What about *all* iOS versions or *all* device types? Good luck doing that manually.
+
+Gotta reset your iOS Simulator? Gotta reset more than just one? What about *all* iOS versions or *all* device types? Good luck doing that manually...
 
 Download this script! Run it! Awesomeness guaranteed!
 
-![Screenshot](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot")
+![Screenshot](https://github.com/stianhoiland/The-Definite-iOS-Simulator-Reset-Script/blob/master/The%20Definite%20iOS%20Simulator%20Reset%20Script.png "Screenshot")
 
 
 Credits
