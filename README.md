@@ -1,4 +1,4 @@
-The Definite iOS Simulator Reset Script
+The Definitive iOS Simulator Reset Script
 =======================================
 
 Created after being inspired by [this stackoverflow post](http://stackoverflow.com/questions/5125243/how-can-i-reset-the-ios-simulator-from-the-command-line/).
@@ -11,7 +11,7 @@ Gotta reset your iOS Simulator? Gotta reset more than just one? What about *all*
 
 Download this script! Run it! Awesomeness guaranteed!
 
-![Screenshot](https://raw.github.com/stianhoiland/The-Definite-iOS-Simulator-Reset-Script/master/The%20Definite%20iOS%20Simulator%20Reset%20Script.png "Screenshot")
+![Screenshot](https://raw.github.com/stianhoiland/The-Definitive-iOS-Simulator-Reset-Script/master/The%20Definitive%20iOS%20Simulator%20Reset%20Script.png "Screenshot")
 
 **NOTE:** *If you haven't already, enable "Universal Access", aka. "Enable access for assistive devices" in System Preferences > Accessibility.*
 
